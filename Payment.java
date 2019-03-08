@@ -1,2 +1,1 @@
-ljslfj
-
+public class Payment
